@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We won't let bad presenation design slide here.
 Use the left arrow to go back!
